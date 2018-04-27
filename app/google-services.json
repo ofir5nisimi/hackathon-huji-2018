@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "445396166860",
+    "firebase_url": "https://dropbuy-huji-hackathon.firebaseio.com",
+    "project_id": "dropbuy-huji-hackathon",
+    "storage_bucket": "dropbuy-huji-hackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445396166860:android:426272e084da66d3",
+        "android_client_info": {
+          "package_name": "com.example.onisimi.dropbuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445396166860-d9el2a3lb3d5un31a7v4e7j14dbdco3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onisimi.dropbuy",
+            "certificate_hash": "750573c3bb1de55583b9acc0f5b53c192e76a557"
+          }
+        },
+        {
+          "client_id": "445396166860-dlk0an9cj0d30610orl5rga1epa7k8qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1mf8QxgAln59Ftz6-3TXwunXe1DQFEbw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445396166860-dlk0an9cj0d30610orl5rga1epa7k8qr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
