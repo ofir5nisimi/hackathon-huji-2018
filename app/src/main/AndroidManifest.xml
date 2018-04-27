@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ConsumerLoginActivity" />
+        <activity android:name=".MapActivity" />
+        <activity android:name=".VolunteerLoginActivity"></activity>
     </application>
 
 </manifest>
